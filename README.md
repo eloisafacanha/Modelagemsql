@@ -99,10 +99,6 @@
 - Os usuários não podem editar informações já salvas, exceto em casos específicos.
 - As informações dos usuários são confidenciais.
 
-## Diagrama
-
-[Diagrama simplificado do modelo relacional (opcional)]
-
 ## Considerações Finais
 
 Este modelo relacional simplificado fornece uma base para o gerenciamento eficiente das informações dos usuários e suas respostas nos formulários do projeto Abandono Zero. As entidades, seus atributos e relacionamentos garantem a organização e a integridade dos dados. As regras de negócio garantem a consistência e a confiabilidade das informações.
